@@ -1,6 +1,6 @@
 # Using Terraform to deploy a vpc.
 
-This project was practice using Terraform to deploy a vpc on aws. Every part of this project was example code provided by Gabe Maentz & Bryan Krausen.
+This project was practice using Terraform to deploy a vpc on aws. This project was created using example code.
 #
 
 ## Steps:
