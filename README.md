@@ -10,5 +10,5 @@ This project was practice using Terraform to deploy a vpc on aws. This project w
 4. Next, get the aws credentials and regions for the Terraform.
 5. In AWS generate an access key and secret key from an IAM user with Administrative privileges.
 6. Once you have credentials, set the following environment variables.
-7. Deploy the AWS infrastructure using Terraform, your shell session. 
+7. Deploy the AWS infrastructure using Terraform, in run a terraform init, plan, and then apply. 
 
